@@ -10,4 +10,6 @@ For this lab, you will be using the output of the previous lab - the `unit-4-lab
 2. Create a sheet with a barplot of the number of customers per **EmploymentStatus** and **Gender**.
 3. Create a sheet with a treeplot of the number of customers per **State**.
 4. Create a cross table with Marital status and Gender.
-5. Create a Dashboard with all the Sheets created until now.
+5. Create a Dashboard with all the Sheets created until now. ---> 
+
+The Dashboard ---> https://public.tableau.com/views/unit-4-lab_16566956445630/Dashboard2?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link
